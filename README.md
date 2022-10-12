@@ -8,3 +8,7 @@ The Figma Design File can be see [here](https://www.figma.com/files/project/6973
 
 ## Step 2 - From Figma to React: creating the application
 In this step we will export the Figma tokens and components to the code creating the React project base and documentation using Storybook.
+
+Every token created in Figma is added to the TailwindCSS theme:
+
+![image](https://user-images.githubusercontent.com/7157460/195464895-d30a4475-fc95-45b9-b764-6c64a93df9a4.png)
